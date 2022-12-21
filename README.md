@@ -2,7 +2,9 @@
 
 No momento estou aprendendo Python para análise de dados e tenho bastante interesse em Machine Learning!
 
-Dentro do meu git você encontrará algumas rotinas que desenvolvi durante a minha graduação em Engenharia Biomédica!
+Dentro do meu git você encontrará algumas rotinas que desenvolvi durante a minha graduação em Engenharia Biomédica.
+
+Atualmente trabalho com PostgreSQL e Python.
 
 <div>
 <img height = "50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
