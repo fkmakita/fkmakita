@@ -1,10 +1,10 @@
-### Olá! Me chamo Fabio Makita, seja muito bem vindo! 👋
+### Olá! Me chamo Fabio Makita, seja muito bem vindo ao meu git! 👋
 
-No momento estou aprendendo Python para análise de dados com ênfase em algoritmos de Machine Learning.
-
-Dentro do meu git você encontrará algumas rotinas que desenvolvi durante a minha graduação em Engenharia Biomédica e alguns projetos paralelos.
-
-Atualmente trabalho com PostgreSQL e Python.
+Dentro do meu git você encontrará alguns projetos que desenvolvi durante a minha graduação em Engenharia Biomédica e outros projetos nas áreas de dados e BI.
+<br>
+Os projetos de Engenharia Biomédica serão principalmente sobre análise/processamento de imagens biomédicas (ex: imagens de raio x, ressonância magnética) e algoritmos supervisionados de Machine Learning (ex: Perceptron, SVM, PCA e outras técnicas).
+<br>
+Os projetos nas áreas de dados e BI serão principalmente sobre PostgreSQL e Power BI.
 
 <div>
 <img height = "50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
